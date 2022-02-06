@@ -1,0 +1,12 @@
+Git
+- Otimiza projetos dos desenvolvedores
+- É um sistema de versionamento de código distribuído que: 
+	->ajuda a criar e a monitorar diferentes versões de um código.
+	->mantém históricos dos arquivos e de suas modificações
+	-> faciluita a recuperação de arquivos e edições anteriores 
+
+GitHub
+- É um repositório online de código, uma plataforma para gerenciar seu código e criar um ambiente de colaboração entre desenvolvedores.
+- É usado como um sistema de controle. 
+- Facilita o uso do Git, escondendo alguns detalhes mais complicados de setup. 
+- CLI - Command Line Interface 
