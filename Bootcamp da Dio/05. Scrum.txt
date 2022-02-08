@@ -1,0 +1,114 @@
+Gestão de Projetos Ágeis com Scrum 
+
+>> Desafios do Desenvolvimento de Software
+
+- Objetivos de negócio:  software como facilitador para alcançar os objetivos
+
+- Gerenciamento de Projeto Tradicional: Processo de desenvolvimento ->
+	Concepção 
+	Análise e Design
+	Desenvolvimento
+	Testes
+	Implantação
+	Resultado: Software 
+
+- G.P.Tradicional (cascata): Só permite que o projeto avance fase por fase.
+	Desvantagens: Demanda muito tempo/cliente só vê o software funcionando na fase final do projeto.
+
+- G.P.Ágil: Software construído por partes e cada parte executa-se em um ciclo.
+	Vantagens: Cliente pode ver parte do software funcionando na parte inicial do projeto, é adaptavel.
+		   Feedback do usuário
+- Com o Scrum, descobre-se erros em no máximo 30 dias.
+
+- Ágil # Rápido -> Rapidez na mudança e desembaraço,fazer coisas complexas de forma simples, esquipe comprometida com os objetivos.
+		   Maior valor para o cliente. -> ter capacidade de responder rapidamente a mudanças.
+
+
+>> SCRUM
+- Um dos frameworks de gerenciamento de projetos ágeis.
+- Equipes pequenas e multidisciplinares que produzem melhores resultados.
+- Pilares: transparência, adaptação e inspeção.
+- Feedbacks constantes de usuários - desenvolvimento progressivo.
+- Melhor gerenciamento de rico, reduzindo incertezas.
+- Daily meetinh
+- Maior valor para o negócio pois prioriza o Backlog.
+- Melhoria contínua, uma vez que o aprendizado é diário.
+- Time Scrum: auto-organização das equipes, responsabilidade de todos, comprimetimento com os resultados. 
+- Comum em starttups
+
+- Time Scrum: 
+1. Product Owner (PO)
+- Visao do que será desenvolvido, as necessidades a serem atendidas, o publico, etc. 
+- Visualiza o valor que será agregado para a empresa e para o cliente.
+- Define a ordem que sa atividades serão desenvolvidas.
+- É responsavel por avaliar se itens entregues possuem o valor agregado esperado.
+- É responsável por cancelar ou replanejar uma sprint.
+- Spike 
+- Deve entender o máximo sobre o produto: para quem? qual objetivo? como vai utilizar? em que momento o produto será utilizado?
+- Participação necessária nas cerimonias de Planning e Review.
+- 
+
+2. Scrum Master (SM)
+- É responsável por disseminar a cultura ágil no time, ensinando:
+	 todos os conceitos do SCRUM
+	 como realizar as cerimonias 
+	 como se tornar cada vez mais independente e auto-gerenciavel
+
+3. Time de desenvolvimento (DEV)
+
+>> Cerimonias do Scrum
+- Time box: tempo máximo para fazer uma cerimonia/sprint.
+- Sprint (corrida) - +30 dias corridos
+
+>>> Estória, Épico e tarefa 
+- Epics/Épicos:
+	Grandes partes de trabalho que podem ser divididas em várias tarefas menores (chamadas estórias).
+	Objetivo macro que deve ser atendido
+	Conjunto de Estórias
+
+- Estórias:  
+	São requisitos pequenos ou solicitações escritas da perspectiva de um usuário final.
+	Conjunto de tarefas 
+
+- Tarefas: 
+	Resultado da quebra de Estórias
+	
+- Exemplo: 
+	Objetivo: Construir uma bicicleta.
+	O PROJETO BICICLETA É um conjunto dos épicos quadro, garfo, selim, etc.
+	O Épico ""garfo" consiste nas Estórias guidão e amortecedores.
+	A "manopla de freio" é uma Estória do sistema de freios.
+	Para a realização da Estória "garfo", é preciso realizar tarefas como montar o guidão, montar o garfo, montar o garfo no quadro, etc..
+	 
+
+>> Dayly Meeting 
+- Reuniões diarias que motivam a equipe (dentro da sprint)
+- Temtpo total de 15min
+- Sempre no mesmo horário e mesmo lugar
+- deve contar com a presença de todo o time de devs
+- Objetivo> momento para que todos os dvs saibam oquê cada um está fazendo
+- ontem, hj e impedimentos
+- Foco nas tarefas do dia a dia
+
+>> Retrospectiva 
+- Acontece sempre após a conclusão da Sprint.
+- Presença do PO importante mas não obrigatória.
+- Presença do SM é obrigatória.
+- Pontos bons e ruins da Sprint.
+- Foco na Sprint como um todo.
+
+>> Refinamento
+- Cerimonia nao oficial no SCRUM
+- Discutir como será a proxima Sprint
+- Finalidade de aumentar o entendimento da demanda por parte do time, melhorar a qualidade da entrega e aumentar o retorno esperado para o projeto.
+- A história tem de estar muito bem escrita nesse momento
+- Finalidade de faciliar a planning e torná-la mais efetiva e assertiva.
+- Presença de todo o time SCRUM é obrigatória 
+
+>> REVIEW
+- Time de desenvolvimento
+- PO e SCRUM MASTER devem estar presentes
+- Convidados os interessados na entrega
+- Ver o que esta sendo emprego, validar se estar de acordo com o solicitado
+
+
