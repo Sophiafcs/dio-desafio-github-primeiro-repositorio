@@ -1,7 +1,7 @@
 
 Introdução à Lógica de Programação 
 
-a) Algoritmos:
+► Algoritmos:
 - Algoritmos são conjuntos de passos finitos e organizados que quando exeutados, resolvem um determinado problema. 
 - Sequencia de passos lógicos necessários para organizarmos uma tarefa.
 - Instruções simples e exatas.
@@ -9,24 +9,24 @@ a) Algoritmos:
 - Todas as tarefas executadas pelo computador são baseadas em algoritmos.
 - Todo algoritmo computacional começa com a criação da lógica de programação. Posteriormente, essa lógica será escrita em uma linguagem de programação qualquer.
 
-b) Pseudocódigo:
+► Pseudocódigo:
 - Lógica do seu programa escrito na linguagem nativa
 - Exemplo: Portugol -> Maneira de representar a sua lógica de programação antes de passá-la para uma linguagem de programação. 
 - Exemplos de linguagem de programação: JAVA, PHP, PYTHON, SWIFT, SQL, RUBY, C. C#, ASSEMBLY, VISUAL BASIC, C++ ...
 
-c) Formas de estruturar a lógica de programação: 
+► Formas de estruturar a lógica de programação: 
 - Fluxograma: lógica através de um fluxo de informações. É uma ferramenta utilizada para representar graficamente o algoritmo.
 - Pseudogódigo Portugol
 
-d) Variavéis e Constantes:
+► Variavéis e Constantes:
 - Variáveis: è um objeto capaz de reter e representar um valor ou expressão. É um espaço na memória do computador destinado a um dado que é alterado durante a execução do algoritmo. 
   As variáveis podem ser numéricas, caracteres, alfanuméricas ou lógicas (verdadeiro ou falso).
 - Constantes: São valores imutáveis e não são alteradis durante a vida útil do programa. 
 
-e) Expressões:
+► Expressões:
 - Expressões aritméticas: Expressões que utilizam operadores aritméticos e funções aritméticas, envolvendo constantes e variáveis (+,-,*,/,^ , %). 
 - Expressões literais: São expressões com constantes e/ou variaveis que tem como resultado valores literais. 
 - Expressões relacionais: São expressões compostas por outras expressões ou variaveis numéricas com operadores relacionais e retornam valores lógicos. (>, <, =)
 
-f) Concatenação:
+► Concatenação:
 - É um termo usado para designar a operação de unir conteúdo de duas strings, dando origem a um unico resultado. 

@@ -1,0 +1,85 @@
+
+HTML 5
+
+► Criado em 1991 para que se pudesse compartilhar textos e documentos.
+
+► Elemento 
+ • É a base do HTML- tudo dentro de um arquivo HTML é um elemento.
+ • É formado pela tag de abertura e seus atributos, o conteúdo e uma tag de fechamento.
+	
+
+► Estrutura HTML 
+
+<!DOCTYPE html>
+ <html>
+  <head>
+  <meta>
+  <title></title>
+  <head>
+  <body>
+  </body>
+</html> 
+
+
+1º DOCTYPE: não é um elemento HTML, ele apenas diz ao navegador o que o usuário está escrevendo.
+2º Abrir a tag do elemento HTML (<html>).
+3º Inserir o elemento    <head> .
+4º Inserir as metas informações dentro do elemento <head>. EX: <meta> e <title></title>.
+   O elemento <title></title> é o que coloca o titulo na aba do navegador.
+5º Fechar o elemento <head> e abrir o elemento <body>. Este elemento é onde estará o conteúdo da página. 
+6º Fechar o elemento <body> e fechar o elemento <html>. 
+
+► Código HTML usando o VS CODE!
+
+► Semântica (elementos)
+ • <section>: representa uma seção genérica de conteúdo.
+
+ • <header> : cabeçalho da página ou de parte de uma section. 
+
+ • <article>: conteúso relevante.
+
+ • <aside>  : conteudo relacionado ao conteúdo principal, como links relacionados.
+
+ • <footer> : rodapé da página ou de uma section.
+
+ • <h1>-<h6>: Indicar visualmente a importância de uma section dentro de uma página. 
+   → Só pode haver 01 <h1> por página.
+   → Elemento <p> para representar parágrafo. Suporta texto, imagens e vídeos.
+
+ • <a>      : é uma âncora, interliga vários conteúdos na web. São atributos do elemento <a>: <a href e <a target.
+   → href = é o hiperlink para onde a âncora está apontando. 
+   → target = serve para indicar como o link será aberto.
+
+ ► Imagem (elementos)
+
+• <img>     : elemento sem tag de fechamento. São atributos do elemento <img>: <image src  e <img alt.
+   → src = obrigatório e guarda o caminho da imagem.
+   → alt = Altamente reconmendável para melhorar a acessibilidade. Mostra a descrição da foto.
+
+► Listas (elementos) 
+
+• <ul> : representa uma lista em que a ordem dos itens não é importante.
+
+• <ol> : representa uma lista em que a ordem dos itens é importante. Por isso, são usados letras, números ou algarismos romanos.
+
+• <li> : è um item da lista. 
+
+____________________________________________________________________________________________________________________________________________ 
+
+CSS 3
+
+► Conceitos básicos
+- Quando estamos fazendo o layout de um site, o navegador representa cada elemento HTML como uma caixa retangular (box-model). 
+- Com o CSS é possível alterar essa box model, que possui 4 áreas: margin (margem), border (borda), padding e content (conteúdo.
+  • As margens são os espaçamentos entre os elementos.   
+  • As bordas circundam o padding e o conteúdo. É possível alterar espessura e cor. 
+  • O padding é o espaçamento entre a borda e o conteúdo. A diferença para as margens é que declarações de imagem de fundo funcionam nele.
+  • O conteúdo pode ser um texto, imagem ou video.  
+
+► ID x Classe
+- Com IDs e Classes podemos representar qualquer tipo de elemento.
+- O ID só pode ser usado uma vez em uma página HTML enquanto a Classe não tem restrições.
+  • ID: é representado pelo símbolo # (hash) seguido de um nome para esse ID. EX: <h1 id="title">Sophie</h1> (não vai se repetir). 
+  • Classe: é representada de forma parecida do ID, mas é precedida por um ponto em vez do hash. EX: <article class="post">. 
+
+

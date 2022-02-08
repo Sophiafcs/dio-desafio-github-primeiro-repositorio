@@ -1,8 +1,10 @@
 1º Bootcamp  da DIO 
 
-- Introdução à lógica e à programação
-- Introdução ao Portugol 
-- Conceitos iniciais sobre estrutura de dados, arrays e registro
-- Listas, Pilhas e Filas
-- Estrutura de dados do tipo Arvore (tree), Tabela Hash e Grafos
-- Introdução ao Git  GitHub
+► Introdução à lógica e à programação
+► Introdução ao Portugol 
+► Conceitos iniciais sobre estrutura de dados, arrays e registro
+► Listas, Pilhas e Filas
+► Estrutura de dados do tipo Arvore (tree), Tabela Hash e Grafos
+► Introdução ao Git  GitHub
+► Projetos ágeis com SCRUM
+► Criação de websites com HTML5 e CSS3
